@@ -14,7 +14,7 @@ struct team
 		num = 0;
 	}
 };
-/*
+
 int main()
 {
 	int N;
@@ -102,4 +102,4 @@ int main()
 
 	}
 	return 0;
-}*/
+}
