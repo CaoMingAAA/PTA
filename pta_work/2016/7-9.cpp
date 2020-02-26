@@ -8,7 +8,7 @@
 #include <map>
 
 using namespace std;
-/*
+
 struct person
 {
 	int n;
@@ -69,4 +69,4 @@ int main()
 		}
 	}
 	return 0;
-}*/
+}
