@@ -8,6 +8,7 @@
 #include <map>
 using namespace std;
 vector<int> v;
+/*
 int find(int a) 
 {
 	for (int i = 0; i < v.size(); i++) 
@@ -101,4 +102,4 @@ int main()
 		}
 	}
 	return 0;
-}
+}*/

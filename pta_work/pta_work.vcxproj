@@ -185,6 +185,9 @@
     <ClCompile Include="2018\L2-3.cpp" />
     <ClCompile Include="2018\L2-4.cpp" />
     <ClCompile Include="2018\L3-1.cpp" />
+    <ClCompile Include="ACCode\1.cpp" />
+    <ClCompile Include="ACCode\2.cpp" />
+    <ClCompile Include="ACCode\3.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
